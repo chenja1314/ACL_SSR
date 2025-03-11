@@ -2,7 +2,7 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,app.galxe.com
-DOMAIN,magiceden.io
+DOMAIN-SUFFIX,magiceden.io
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
