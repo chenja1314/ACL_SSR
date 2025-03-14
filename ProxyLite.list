@@ -4,6 +4,9 @@
 DOMAIN-SUFFIX,testnet.haust.app
 DOMAIN-SUFFIX,graphigo.prd.galaxy.eco
 DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,cdn.galxe.com
+DOMAIN-SUFFIX,sentry.corp.galxe.com
+DOMAIN-SUFFIX,b.galxestatic.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
