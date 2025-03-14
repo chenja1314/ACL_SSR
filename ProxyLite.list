@@ -2,12 +2,12 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,testnet.haust.app
-DOMAIN-SUFFIX,graphigo.prd.galaxy.eco
-DOMAIN-SUFFIX,google-analytics.com
+DOMAIN,graphigo.prd.galaxy.eco
+DOMAIN,google-analytics.com
 DOMAIN-SUFFIX,app.galxe.com
-DOMAIN-SUFFIX,cdn.galxe.com
-DOMAIN-SUFFIX,sentry.corp.galxe.com
-DOMAIN-SUFFIX,b.galxestatic.com
+DOMAIN,cdn.galxe.com
+DOMAIN,sentry.corp.galxe.com
+DOMAIN,b.galxestatic.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
