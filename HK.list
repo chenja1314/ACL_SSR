@@ -3,4 +3,5 @@
 DOMAIN-SUFFIX,magiceden.io
 DOMAIN-SUFFIX,auth.magiceden.io
 DOMAIN-SUFFIX,yala.org
-# 域名关键字匹配 DOMAIN-KEYWORD,1e100
+# 域名关键字匹配 
+DOMAIN-KEYWORD,logs.netflix.com
