@@ -4,10 +4,12 @@
 DOMAIN-SUFFIX,testnet.haust.app
 DOMAIN-SUFFIX,galxe.com
 # 域名关键字匹配
-DOMAIN-KEYWORD,graphigo.prd.galaxy
+DOMAIN,graphigo.prd.galaxy.eco
 DOMAIN-KEYWORD,google-analytics.com
 DOMAIN-KEYWORD,sentry.corp.galxe.com
 DOMAIN-KEYWORD,b.galxestatic.com
+# 域名匹配
+DOMAIN,graphigo.prd.galaxy.eco
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
