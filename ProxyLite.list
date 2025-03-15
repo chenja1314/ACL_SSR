@@ -4,8 +4,8 @@
 DOMAIN-SUFFIX,testnet.haust.app
 DOMAIN-SUFFIX,galxe.com
 DOMAIN-SUFFIX,galaxy.eco
-# 域名关键字匹配
-DOMAIN-KEYWORD,galaxy.eco
+DOMAIN-SUFFIX,agnthub.ai
+# 域名关键字匹配DOMAIN-KEYWORD,galaxy.eco
 DOMAIN-KEYWORD,google-analytics.com
 DOMAIN-KEYWORD,sentry.corp.galxe.com
 DOMAIN-KEYWORD,b.galxestatic.com
