@@ -4,5 +4,5 @@
 # 域名关键字匹配 DOMAIN-KEYWORD,1e100
 
 # 域名
-DOMAIN,x.com
-DOMAIN,api.x.com
+#DOMAIN,x.com
+#DOMAIN,api.x.com
