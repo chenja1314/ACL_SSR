@@ -29,5 +29,3 @@ DOMAIN-SUFFIX,chat.qwen.ai
 DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,archive.ubuntu.com,DIRECT
 DOMAIN-SUFFIX,security.ubuntu.com,DIRECT
-DOMAIN-SUFFIX,hk.archive.ubuntu.com,DIRECT
-DOMAIN-SUFFIX,mirror.xtom.com.hk,DIRECT
