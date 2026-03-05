@@ -1,9 +1,9 @@
 
 # 域名后缀匹配DOMAIN-SUFFIX,grvt.io
-#DOMAIN-SUFFIX,x.com
-#DOMAIN-SUFFIX,api.x.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,api.x.com
 # 域名关键字匹配 DOMAIN-KEYWORD,1e100
 
-# 域名
+# 域名 DOMAIN,x.com
 DOMAIN,x.com
 DOMAIN,api.x.com
