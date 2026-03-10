@@ -9,6 +9,11 @@ DOMAIN-SUFFIX,hub.beamable.network
 DOMAIN-SUFFIX,alist.nn.ci
 DOMAIN-SUFFIX,metshop.vip
 
+# IPTV
+DOMAIN-SUFFIX,jdshipin.com
+DOMAIN-SUFFIX,goodiptv.club
+DOMAIN-SUFFIX,ottiptv.cc
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
