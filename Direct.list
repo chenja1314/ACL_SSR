@@ -16,6 +16,7 @@ DOMAIN-REGEX,(.+\.)?m8cnq\d+\.vip$
 DOMAIN-REGEX,m8cnq.*
 
 # 博彩
+DOMAIN-SUFFIX,zqt0510.com
 DOMAIN-SUFFIX,71vfi7l.com
 
 
