@@ -15,6 +15,10 @@ DOMAIN-SUFFIX,aijiaoyi.xyz
 DOMAIN-REGEX,(.+\.)?m8cnq\d+\.vip$
 DOMAIN-REGEX,m8cnq.*
 
+# 博彩
+DOMAIN-SUFFIX,71vfi7l.com
+
+
 # IPTV
 DOMAIN-SUFFIX,jdshipin.com
 DOMAIN-SUFFIX,goodiptv.club
